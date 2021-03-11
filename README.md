@@ -8,7 +8,7 @@
 *  Soy de 6to 2da avionica
 * Me interesan varios entornos de la computacion,programacion y modelado
 * Algunos de mis hobbies son jugar en la pc o ps4, escuchar musico y ver videos 
-* Mi perfil de [steam]<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/459820/ac169b82719cda011173aa970806a9b960c8ca9c.png" width="30">
+* Mi perfil de [steam] <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/459820/ac169b82719cda011173aa970806a9b960c8ca9c.png" width="30">
 ## Mis propositos de este año 
 * Pasar de año 
 * etc
